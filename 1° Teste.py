@@ -1,0 +1,5 @@
+nome = input('Qual é o seu nome? ')
+idade = input('Quantos anos você tem? ')
+peso = input('Quantos quilogramas você pesa? ')
+idademental = input('Qual é sua idade mental? ')
+print (nome.title()+' tem '+idade+' Anos de idade, pesa',peso+' quilogramas e tem uma idade mental de',idademental+' anos de pura idiotíce.')
